@@ -103,13 +103,5 @@ Muhammad Saad Haroon, Jawad Saeed, Daanish Uddin Khan. "Federated Learning Optim
 ```
 
 ---
-
-## 🙋‍♂️ Contact
-
-📧 `25100147@lums.edu.pk`  
-🔗 [GitHub Profile](https://github.com/SaadH-077)
-
----
-
 > _“A federated model is only as good as its clients are diverse.”_
 
