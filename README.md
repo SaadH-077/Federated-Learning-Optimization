@@ -3,7 +3,7 @@
 A comprehensive course project on **Federated Learning**, evaluating six key algorithms — Centralized Training, FedSGD, FedAvg, SCAFFOLD, FedGH, and FedSAM — across dimensions like convergence, generalization, data heterogeneity, and communication efficiency.
 
 > 🧠 **Course**: Advanced Topics in Machine Learning (ATML - CS)  
-> 📅 **Semester**: Spring 2025  
+> 📅 **Semester**: Fall 2024  
 > 🎓 **Institution**: LUMS  
 > 👨‍💻 Contributors: Muhammad Saad Haroon, Jawad Saeed, Daanish Uddin Khan
 
